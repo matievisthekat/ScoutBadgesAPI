@@ -67,7 +67,7 @@ function update() {
             arr.unshift(`${i + 1}. `);
             const str = arr
               .map((part) => (part ? part.trim() : part))
-              .join("")
+              .join(" ")
               .replace(/\n/gi, "");
             return str;
           });
@@ -122,7 +122,7 @@ function update() {
             arr.unshift(`${i + 1}. `);
             const str = arr
               .map((part) => (part ? part.trim() : part))
-              .join("")
+              .join(" ")
               .replace(/\n/gi, "");
             return str;
           });
