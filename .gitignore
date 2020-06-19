@@ -1,3 +1,5 @@
+badges/*.json
+
 # Logs
 logs
 *.log
