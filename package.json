@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.21.3",
+    "axios": "^0.27.2",
     "cheerio": "^1.0.0-rc.12",
     "cron": "^1.8.2",
     "express": "^4.17.3"
